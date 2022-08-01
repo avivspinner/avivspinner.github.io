@@ -1,5 +1,4 @@
 # Han Spinner
-## Graduate Student at Harvard Medical School
 ## hspinner@g.harvard.edu
 ### Biological and Biomedical Science PhD Program | Debora Marks Lab
 
