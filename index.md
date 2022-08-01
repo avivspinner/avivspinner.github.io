@@ -1,5 +1,4 @@
 # About Me
-### PhD Student in Debora Marks' Lab at Harvard Medical School in the Biological and Biomedical Science PhD Program
 
 <img src="./docs/assets/images/my_head.png" width="300" height="300">
 
