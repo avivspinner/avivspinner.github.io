@@ -2,7 +2,7 @@
 ## hspinner@g.harvard.edu
 ### Biological and Biomedical Science PhD Program | Debora Marks Lab
 
-![an image of my face](./docs/assets/images/my_head.png)
+![an image of my face](./docs/assets/images/my_head.png | width=200px)
 
 This website is under construction ! And possibly broken??
 
