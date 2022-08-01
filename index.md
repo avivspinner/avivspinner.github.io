@@ -12,4 +12,4 @@ Most of my time is spent:
 -   developing new methods for combining natural sequence data with labeled experimental data, 
 -   and mentoring future/current PhD students. 
 
-**If you need something, feel free to reach out via email _:)_ **
+**If you need something, feel free to reach out via email _:)_**
