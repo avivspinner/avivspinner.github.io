@@ -1,4 +1,4 @@
-# Han Spinner
+# About Me
 ## hspinner@g.harvard.edu
 ### Biological and Biomedical Science PhD Program | Debora Marks Lab
 
