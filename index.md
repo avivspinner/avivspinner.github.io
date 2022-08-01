@@ -1,6 +1,6 @@
 # Han Spinner
 ## Graduate Student at Harvard Medical School
-###In the Biological and Biomedical Science PhD Program | Debora Marks Lab
+### In the Biological and Biomedical Science PhD Program | Debora Marks Lab
 
 You can use the [editor on GitHub](https://github.com/hanspinner/hanspinner.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
