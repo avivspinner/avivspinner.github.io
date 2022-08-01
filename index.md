@@ -4,7 +4,7 @@
 
 ![an image of my face](./docs/assets/images/my_head.png)
 
-This website is under construction ! 
+This website is under construction ! And possibly broken??
 
 I am a graduate student in Debora Marks' lab where I research ML for Biology. 
 
