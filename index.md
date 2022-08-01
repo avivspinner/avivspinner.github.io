@@ -3,6 +3,8 @@
 ## hspinner@g.harvard.edu
 ### Biological and Biomedical Science PhD Program | Debora Marks Lab
 
+![an image of my face](./docs/assets/my_head.png)
+
 This website is under construction ! 
 
 I am a graduate student in Debora Marks' lab where I research ML for Biology. 
