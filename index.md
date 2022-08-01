@@ -1,7 +1,5 @@
 # About Me
 
-<img src="./docs/assets/images/my_head.png" width="300" height="300">
-
 This website is under construction ! 
 
 I am a graduate student in Debora Marks' lab where I research ML for Biology. 
