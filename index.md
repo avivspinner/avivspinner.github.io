@@ -3,8 +3,6 @@
 
 ## About Me
 
-This website is under construction ! 
-
 I am a graduate student in Debora Marks' lab where I research ML for Biology. 
 
 Most of my time is spent: 
