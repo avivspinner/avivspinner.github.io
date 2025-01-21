@@ -3,9 +3,13 @@
 
 ## About Me
 
-I am a graduate student in Debora Marks' lab where I research ML for Biology. 
+Hello ~ I am the Protein Engineering Machine Learning Fellow at Align Bio! 
 
-Most of my time is spent: 
+Other things:
+-   I did my PhD in Debora Marks' lab in the Department of Systems Biology at Harvad Medical School
+-   I was in the Biological and Biomedical Science PhD program as well as the Therapeutics Graduate Program
+
+During graduate school, most of my time was spent: 
 -   designing new enzymes, 
 -   developing new methods for combining natural sequence data with labeled experimental data, 
 -   and mentoring future/current scientists. 
