@@ -1,18 +1,38 @@
 <br>
 <br>
 
-## About Me
+# About Me
 
-Hello ~ I am the Protein Engineering Machine Learning Fellow at Align Bio! 
+Hello ~ I am a Protein Engineering Machine Learning Fellow at [The Align Foundation](https://alignbio.org)
 
-Other things:
--   I did my PhD in Debora Marks' lab in the Department of Systems Biology at Harvad Medical School
--   I was in the Biological and Biomedical Science PhD program as well as the Therapeutics Graduate Program
+Current research interests include understanding scaling laws for biology ML models, building beautiful visualizations of protein sequence data, creating high-throughput and high quality wetlab data, and creating _useful_ evaluation benchmarks for the field of protein design.
 
-During graduate school, most of my time was spent: 
--   designing new enzymes, 
--   developing new methods for combining natural sequence data with labeled experimental data, 
+## Graduate Training:
+-   I did my PhD in Debora Marks' lab in the Department of Systems Biology at Harvad Medical School.
+-   I was in the Biological and Biomedical Science PhD program as well as the Therapeutics Graduate Program.
+-   Here's a link to [my thesis](https://www.proquest.com/openview/f778804e6685494f993d529dbf3f0ce7/1?pq-origsite=gscholar&cbl=18750&diss=y)! The acknowledgments are honesty the best part ;)
+
+#### During graduate school, most of my time was spent: 
+-   designing new enzymes,
+-   building benchmarks and evaluations for predicting variant effects and generating new molecules,
+-   developing methods for combining natural sequence data with labeled experimental data, 
 -   and mentoring future/current scientists. 
+
+## Undergraduate Training:
+-   I studied Genetics and Plant Biology at UC Berkeley (**go bears!**) with a minor in Food Systems.
+-   Notably, I took "calculus for business majors" in 2014 and did not take another math class until graduate school in 2021!
+-   I poked CasX with Ben Oakes in the labs of Dave Savage and Jennifer Doudna.
+
+#### During undergraduate training, most of my time was spent: 
+- pipetting
+- more pipetting...
+- honestly, it was so much pipetting
+- working in a bakery (i.e. pipetting at scale)
+- writing 3 min, 10 min, and full length plays with T4C (aka [Theater for Charity](https://callink.berkeley.edu/organization/theaterforcharity]) )
+
+
+#### Much of my research is published on open platforms. 
+If there's a paper that is published elsewhere that you'd like full access to, please email me and I will get you a PDF. 
 
 I've been the guest on a few podcasts! Listen to me talk science here:
 - Finding Genius Podcast, New CRISPR Protein and Genome Editing Techniques Using Machine Learning Techniques, [recording](https://www.youtube.com/watch?v=rZSowMhWTuQ)
