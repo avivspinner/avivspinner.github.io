@@ -3,7 +3,7 @@
 
 # About Me
 
-Hello ~ I am a Protein Engineering Machine Learning Fellow at [The Align Foundation](https://alignbio.org)
+Hello ~ I am a Protein Machine Learning Fellow at [The Align Foundation](https://alignbio.org)
 
 Current research interests include 
 - [ ] understanding scaling laws for biology ML models,
