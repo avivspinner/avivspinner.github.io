@@ -44,4 +44,4 @@ I've been the guest on a few podcasts! Listen to me talk science here:
 
 **If you want to chat, feel free to reach out via email _:)_**
 
-Find my Google Scholar [here](https://scholar.google.com/citations?user=suZf26EAAAAJ&hl=en&oi=sra)
+Find my Google Scholar [here](https://scholar.google.com/citations?user=r2ptv1oAAAAJ&hl=en)
